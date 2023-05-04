@@ -27,8 +27,7 @@ const Services = () => (
           continue to improve
         </h1>
         <p className="text-left my-2 text-white font-light md:w-9/12 w-11/12 text-base">
-          The best choice for buying and selling your crypto assets, with the
-          various super friendly services we offer
+          The best choice for you to exchange assets within TaskRabbit
         </p>
       </div>
 
@@ -41,7 +40,7 @@ const Services = () => (
         />
         <ServiceCard
           color="bg-[#8945F8]"
-          title="Best exchange rates"
+          title="Universal TaskRabbit Token"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
           subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
         />
